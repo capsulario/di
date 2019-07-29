@@ -1,0 +1,16 @@
+{
+    "name": "capsular/di",
+    "description": "Capsular Dependency Injection",
+    "type": "library",
+    "require": {
+        "phpunit/phpunit": "^8.3@dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eugene Bogachov",
+            "email": "eugene.bogachov@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}

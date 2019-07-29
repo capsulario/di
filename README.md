@@ -1,2 +1,2 @@
 # di
-Granule Dependency Injection
+Capsular Dependency Injection
